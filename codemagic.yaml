@@ -1,0 +1,50 @@
+workflows:
+  ios-release:
+    name: iOS Release Build
+    instance_type: mac_mini_m1
+    max_build_duration: 60
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+    scripts:
+      - name: Set up code signing settings on Xcode project
+        script: xcode-project use-profiles
+      - name: Get Flutter packages
+        script: |
+          flutter packages pub get
+      - name: Run build runner (if needed)
+        script: |
+          flutter pub run build_runner build --delete-conflicting-outputs || true
+      - name: Install CocoaPods
+        script: |
+          cd ios
+          pod install
+      - name: Flutter build IPA / iOS
+        script: |
+          flutter build ipa --release --no-codesign
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - build/ios/archive/*.xcarchive
+      - /tmp/xcodebuild_logs/*.log
+
+  android-release:
+    name: Android Release Build
+    instance_type: mac_mini_m1
+    max_build_duration: 30
+    environment:
+      flutter: stable
+      java: 17
+    scripts:
+      - name: Get Flutter packages
+        script: |
+          flutter packages pub get
+      - name: Build Android APK
+        script: |
+          flutter build apk --release
+      - name: Build Android App Bundle (AAB)
+        script: |
+          flutter build appbundle --release
+    artifacts:
+      - build/app/outputs/flutter-apk/*.apk
+      - build/app/outputs/bundle/release/*.aab
