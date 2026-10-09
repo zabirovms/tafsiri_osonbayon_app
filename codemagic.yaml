@@ -1,50 +1,60 @@
 workflows:
   ios-release:
-    name: iOS Release Build
-    instance_type: mac_mini_m1
+    name: Flutter iOS Release
     max_build_duration: 60
+    instance_type: mac_mini_m1
+    integrations:
+      app_store_connect: QuranApp Key
     environment:
+      groups:
+        - apple_credentials
+      vars:
+        BUNDLE_ID: "com.osonbayon.quranOsonbayon"
+        XCODE_WORKSPACE: "ios/Runner.xcworkspace"
+        XCODE_SCHEME: "Runner"
       flutter: stable
       xcode: latest
       cocoapods: default
+    triggering:
+      events:
+        - push
+      branch_patterns:
+        - pattern: main
     scripts:
-      - name: Set up code signing settings on Xcode project
-        script: xcode-project use-profiles
-      - name: Get Flutter packages
+      - name: Set up local properties and dependencies
         script: |
-          flutter packages pub get
-      - name: Run build runner (if needed)
+          flutter config --no-enable-swift-package-manager
+          flutter precache --ios
+          flutter pub get
+          flutter build ios --config-only --no-codesign || true
+      - name: Configure Pods and dependencies
         script: |
-          flutter pub run build_runner build --delete-conflicting-outputs || true
-      - name: Install CocoaPods
+          cd ios && pod install
+      - name: Initialize keychain
         script: |
-          cd ios
-          pod install
-      - name: Flutter build IPA / iOS
+          keychain initialize
+      - name: Fetch Apple Certificates and Provisioning Profiles
         script: |
-          flutter build ipa --release --no-codesign
+          app-store-connect fetch-signing-files "$BUNDLE_ID" --type IOS_APP_STORE --create
+      - name: Add certificates to keychain
+        script: |
+          keychain add-certificates
+      - name: Apply Provisioning Profiles
+        script: |
+          xcode-project use-profiles
+      - name: Build Flutter iOS App (IPA)
+        script: |
+          flutter build ipa --release
     artifacts:
       - build/ios/ipa/*.ipa
-      - build/ios/archive/*.xcarchive
-      - /tmp/xcodebuild_logs/*.log
-
-  android-release:
-    name: Android Release Build
-    instance_type: mac_mini_m1
-    max_build_duration: 30
-    environment:
-      flutter: stable
-      java: 17
-    scripts:
-      - name: Get Flutter packages
-        script: |
-          flutter packages pub get
-      - name: Build Android APK
-        script: |
-          flutter build apk --release
-      - name: Build Android App Bundle (AAB)
-        script: |
-          flutter build appbundle --release
-    artifacts:
-      - build/app/outputs/flutter-apk/*.apk
-      - build/app/outputs/bundle/release/*.aab
+    publishing:
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true
+        submit_to_app_store: false
+      email:
+        recipients:
+          - zabirovms@gmail.com
+        notify:
+          success: true
+          failure: true
