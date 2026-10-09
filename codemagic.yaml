@@ -9,7 +9,7 @@ workflows:
       groups:
         - apple_credentials
       vars:
-        BUNDLE_ID: "com.osonbayon.quranOsonbayon"
+        BUNDLE_ID: "com.quran.tj.osonbayon"
         XCODE_WORKSPACE: "ios/Runner.xcworkspace"
         XCODE_SCHEME: "Runner"
       flutter: stable
