@@ -1,0 +1,177 @@
+[
+  {
+    "id": "ar.ahmedajamy",
+    "name": "Ahmed Al-Ajamy",
+    "nameTajik": "Аҳмад Ал-Аҷамӣ",
+    "nameArabic": "أحمد العجمي",
+    "bitrate": 128
+  },
+  {
+    "id": "ar.alafasy",
+    "name": "Mishary Alafasy",
+    "nameTajik": "Мишарӣ Ал-Афосӣ",
+    "nameArabic": "مشاري العفاسي",
+    "bitrate": 128
+  },
+  {
+    "id": "ar.hudhaify",
+    "name": "Ali Abdur-Rahman Al-Huthaifi",
+    "nameTajik": "Алӣ Абдур Раҳмон Ал-Ҳусайфӣ",
+    "nameArabic": "علي عبد الرحمن الحذيفي",
+    "bitrate": 128
+  },
+  {
+    "id": "ar.husary",
+    "name": "Mahmoud Khalil Al-Husary",
+    "nameTajik": "Маҳмуд Халил Ал-Ҳусарӣ",
+    "nameArabic": "محمود خليل الحصري",
+    "bitrate": 128
+  },
+  {
+    "id": "ar.husarymujawwad",
+    "name": "Mahmoud Khalil Al-Husary (Mujawwad)",
+    "nameTajik": "Маҳмуд Халил Ал-Ҳусарӣ (Муҷаввад)",
+    "nameArabic": "محمود خليل الحصري مجود",
+    "bitrate": 128
+  },
+  {
+    "id": "ar.mahermuaiqly",
+    "name": "Maher Al Muaiqly",
+    "nameTajik": "Маҳер Ал-Муайқлӣ",
+    "nameArabic": "ماهر المعيقلي",
+    "bitrate": 128
+  },
+  {
+    "id": "ar.minshawi",
+    "name": "Muhammad Siddiq Al-Minshawi",
+    "nameTajik": "Муҳаммад Сиддиқ Ал-Миншавӣ",
+    "nameArabic": "محمد صديق المنشاوي",
+    "bitrate": 128
+  },
+  {
+    "id": "ar.muhammadayyoub",
+    "name": "Muhammad Ayyub",
+    "nameTajik": "Муҳаммад Айюб",
+    "nameArabic": "محمد أيوب",
+    "bitrate": 128
+  },
+  {
+    "id": "ar.muhammadjibreel",
+    "name": "Muhammad Jibreel",
+    "nameTajik": "Муҳаммад Ҷибрил",
+    "nameArabic": "محمد جبريل",
+    "bitrate": 128
+  },
+  {
+    "id": "ar.shaatree",
+    "name": "Abu Bakr Ash-Shatri",
+    "nameTajik": "Абӯ Бакр Аш-Шатри",
+    "nameArabic": "أبو بكر الشاطري",
+    "bitrate": 128
+  },
+  {
+    "id": "ar.abdulbasitmurattal",
+    "name": "Abdul Basit Murattal",
+    "nameTajik": "Абдул Босити Мураттал",
+    "nameArabic": "عبد الباسط مرتل",
+    "bitrate": 192
+  },
+  {
+    "id": "ar.abdullahbasfar",
+    "name": "Abdullah Basfar",
+    "nameTajik": "Абдуллоҳ Басфар",
+    "nameArabic": "عبد الله بصفر",
+    "bitrate": 192
+  },
+  {
+    "id": "ar.abdurrahmaansudais",
+    "name": "Abdur-Rahman As-Sudais",
+    "nameTajik": "Абдур Раҳмон Ас-Судайс",
+    "nameArabic": "عبد الرحمن السديس",
+    "bitrate": 192
+  },
+  {
+    "id": "ar.hanirifai",
+    "name": "Hani Al-Refai (Hajjaj)",
+    "nameTajik": "Ҳонӣ Ал-Рефаӣ (Ҳаҷҷоҷ)",
+    "nameArabic": "هاني الرفاعي",
+    "bitrate": 192
+  },
+  {
+    "id": "ar.ibrahimakhbar",
+    "name": "Ibrahim Al-Akhbar",
+    "nameTajik": "Иброҳим Ал-Ахбар",
+    "nameArabic": "إبراهيم الأخضر",
+    "bitrate": 32
+  },
+  {
+    "id": "ar.abdulsamad",
+    "name": "Abdul Samad",
+    "nameTajik": "Абдул Самад",
+    "nameArabic": "عبد الصمد",
+    "bitrate": 64
+  },
+  {
+    "id": "ar.aymanswoaid",
+    "name": "Ayman Swoaid",
+    "nameTajik": "Айман Своид",
+    "nameArabic": "أيمن سويد",
+    "bitrate": 64
+  },
+  {
+    "id": "ar.minshawimujawwad",
+    "name": "Muhammad Siddiq Al-Minshawi (Mujawwad)",
+    "nameTajik": "Муҳаммад Сиддиқ Ал-Миншавӣ (Муҷаввад)",
+    "nameArabic": "محمد صديق المنشاوي مجود",
+    "bitrate": 64
+  },
+  {
+    "id": "ar.saoodshuraym",
+    "name": "Saood Bin Ibrahim Shuraym",
+    "nameTajik": "Сауд Бин Иброҳим Шурайм",
+    "nameArabic": "سعود بن إبراهيم الشريم",
+    "bitrate": 64
+  },
+  {
+    "id": "fr.leclerc",
+    "name": "French Translation",
+    "nameTajik": "Фаронсавӣ",
+    "nameArabic": "فرنسي",
+    "bitrate": 128
+  },
+  {
+    "id": "ru.kuliev-audio",
+    "name": "Russian Translation",
+    "nameTajik": "Русский",
+    "nameArabic": "روسي",
+    "bitrate": 128
+  },
+  {
+    "id": "zh.chinese",
+    "name": "Chinese Translation",
+    "nameTajik": "Чинӣ",
+    "nameArabic": "صيني",
+    "bitrate": 128
+  },
+  {
+    "id": "en.walk",
+    "name": "English Translation",
+    "nameTajik": "Англисӣ",
+    "nameArabic": "إنجليزي",
+    "bitrate": 192
+  },
+  {
+    "id": "fa.hedayatfarfooladvand",
+    "name": "Persian Translation",
+    "nameTajik": "Форсӣ",
+    "nameArabic": "فارسي",
+    "bitrate": 40
+  },
+  {
+    "id": "ur.khan",
+    "name": "Urdu Translation",
+    "nameTajik": "Урду",
+    "nameArabic": "أردو",
+    "bitrate": 64
+  }
+]

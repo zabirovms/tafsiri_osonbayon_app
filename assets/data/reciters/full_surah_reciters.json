@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "ar.abdulazizazzahrani",
+    "name": "Abdul Aziz Az-Zahrani",
+    "nameTajik": "Абдул Азиз Аз-Заҳронӣ",
+    "nameArabic": "عبد العزيز الزهراني",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdulbariaththubaity",
+    "name": "Abdul Bari Ath-Thubaity",
+    "nameTajik": "Абдул Борӣ Ас-Субойтӣ",
+    "nameArabic": "عبد الباري الثبيتي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdulbarimohammed",
+    "name": "Abdul Bari Mohammed",
+    "nameTajik": "Абдул Борӣ Муҳаммад",
+    "nameArabic": "عبد الباري محمد",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdulbasitmujawwad",
+    "name": "Abdul Basit Mujawwad",
+    "nameTajik": "Абдул Босити Муҷаввад",
+    "nameArabic": "عبد الباسط مجود",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdulbasitmurattal",
+    "name": "Abdul Basit Murattal",
+    "nameTajik": "Абдул Босит Мураттал",
+    "nameArabic": "عبد الباسط مرتل",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdulkareemalhazmi",
+    "name": "Abdul Kareem Al-Hazmi",
+    "nameTajik": "Абдул Карим Ал-Ҳазмӣ",
+    "nameArabic": "عبد الكريم الحازمي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdullahalmatrood",
+    "name": "Abdullah Al-Matrood",
+    "nameTajik": "Абдуллоҳ Ал-Матрӯд",
+    "nameArabic": "عبد الله المطرود",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdullahawadaljuhani",
+    "name": "Abdullah Awad Al-Juhani",
+    "nameTajik": "Абдуллоҳ Аввад Ал-Ҷуҳонӣ",
+    "nameArabic": "عبد الله عواد الجهني",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdullahbasfar",
+    "name": "Abdullah Basfar",
+    "nameTajik": "Абдуллоҳ Басфар",
+    "nameArabic": "عبد الله بصفر",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdullahkhayat",
+    "name": "Abdullah Khayat",
+    "nameTajik": "Абдуллоҳ Хайот",
+    "nameArabic": "عبد الله خياط",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdullahkhulaifi",
+    "name": "Abdullah Khulaifi",
+    "nameTajik": "Абдуллоҳ Хулайфӣ",
+    "nameArabic": "عبد الله خليفي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdulmohsenalharthy",
+    "name": "Abdul Mohsen Al-Harthy",
+    "nameTajik": "Абдул Муҳсин Ал-Ҳарсӣ",
+    "nameArabic": "عبد المحسن الحارثي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdulmuhsinalqasim",
+    "name": "Abdul Muhsin Al-Qasim",
+    "nameTajik": "Абдул Муҳсин Ал-Қосим",
+    "nameArabic": "عبد المحسن القاسم",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdulmunimabdulmubdi",
+    "name": "Abdul Munim Abdul Mubdi",
+    "nameTajik": "Абдул Муним Абдул Мубдӣ",
+    "nameArabic": "عبد المنعم عبد المبدي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdulwadoodhaneef",
+    "name": "Abdul Wadood Haneef",
+    "nameTajik": "Абдул Вадуд Ҳаниф",
+    "nameArabic": "عبد الودود حنيف",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdurrasheedsufiabialhaarithanalkasaaee",
+    "name": "Abdur-Rasheed Sufi Abi Al-Haarith An-Al-Kasaaee",
+    "nameTajik": "Абдур Рашид Суфӣ Абӣ Ал-Ҳорис Ан-Ал-Касоӣ",
+    "nameArabic": "عبد الرشيد الصوفي أبي الحارث الأن الكسائي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdurrasheedsufiaddoorianabiamr",
+    "name": "Abdur-Rasheed Sufi Ad-Doori An-Abiamr",
+    "nameTajik": "Абдур Рашид Суфӣ Ад-Дӯрӣ Ан-Абиамр",
+    "nameArabic": "عبد الرشيد الصوفي الدوري الأن أبي عمرو",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdurrasheedsufishubahanasim",
+    "name": "Abdur-Rasheed Sufi Shubah An-Asim",
+    "nameTajik": "Абдур Рашид Суфӣ Шубаҳ Ан-Асим",
+    "nameArabic": "عبد الرشيد الصوفي شعبة عن عاصم",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdurrasheedsufisoosi",
+    "name": "Abdur-Rasheed Sufi Soosi",
+    "nameTajik": "Абдур Рашид Суфӣ Сӯсӣ",
+    "nameArabic": "عبد الرشيد الصوفي السوسي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abdurrazaqbinabtanaldulaimi",
+    "name": "Abdur-Razzaq Bin Abtan Al-Dulaimi",
+    "nameTajik": "Абдур Раззоқ Бин Абтон Ал-Дулаймӣ",
+    "nameArabic": "عبد الرزاق بن أبتان الدليمي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abuabdullahmuniraltounsi",
+    "name": "Abu Abdullah Munir At-Tounsi",
+    "nameTajik": "Абӯ Абдуллоҳ Мунир Ат-Тунсӣ",
+    "nameArabic": "أبو عبد الله منير التونسي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.abubakraldhabi",
+    "name": "Abu Bakr Ad-Dhabi",
+    "nameTajik": "Абӯ Бакр Ад-Даҳбӣ",
+    "nameArabic": "أبو بكر الذهبي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.adilkalbani",
+    "name": "Adil Kalbani",
+    "nameTajik": "Одил Калбонӣ",
+    "nameArabic": "عادل كلباني",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ahmadalhawashy",
+    "name": "Ahmad Al-Hawashy",
+    "nameTajik": "Аҳмад Ал-Ҳавошӣ",
+    "nameArabic": "أحمد الحواشي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ahmadalnufais",
+    "name": "Ahmad An-Nufais",
+    "nameTajik": "Аҳмад Ан-Нуфайс",
+    "nameArabic": "أحمد النفيس",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ahmadkhaderaltarabulsi",
+    "name": "Ahmad Khader At-Tarabulsi",
+    "nameTajik": "Аҳмад Ходер Ат-Торобулсӣ",
+    "nameArabic": "أحمد خضر الطرابلسي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ahmadsulaiman",
+    "name": "Ahmad Sulaiman",
+    "nameTajik": "Аҳмад Сулаймон",
+    "nameArabic": "أحمد سليمان",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ahmedalajmi",
+    "name": "Ahmed Al-Ajmi",
+    "nameTajik": "Аҳмад Ал-Аҷмӣ",
+    "nameArabic": "أحمد العجمي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ahmedalhammad",
+    "name": "Ahmed Al-Hammad",
+    "nameTajik": "Аҳмад Ал-Ҳаммад",
+    "nameArabic": "أحمد الحماد",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ahmedalmisbahi",
+    "name": "Ahmed Al-Misbahi",
+    "nameTajik": "Аҳмад Ал-Мисбоҳӣ",
+    "nameArabic": "أحمد المصباحي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ahmedamir",
+    "name": "Ahmed Amir",
+    "nameTajik": "Аҳмад Омир",
+    "nameArabic": "أحمد أمير",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ahmedmohamedsalama",
+    "name": "Ahmed Mohammed Salama",
+    "nameTajik": "Аҳмад Муҳаммад Салама",
+    "nameArabic": "أحمد محمد سلامة",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ahmedsaber",
+    "name": "Ahmed Saber",
+    "nameTajik": "Аҳмад Собер",
+    "nameArabic": "أحمد صابر",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.alafasy",
+    "name": "Mishary Alafasy",
+    "nameTajik": "Мишарӣ Ал-Афосӣ",
+    "nameArabic": "مشاري العفاسي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.alashryomran",
+    "name": "Al-Ashry Omran",
+    "nameTajik": "Ал-Ашрӣ Умрон",
+    "nameArabic": "العشري عمران",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.alfatehmuhammadzubair",
+    "name": "Al-Fateh Muhammad Zubair",
+    "nameTajik": "Ал-Фотеҳ Муҳаммад Зубайр",
+    "nameArabic": "الفاتح محمد زبير",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.alhusaynialazazi",
+    "name": "Al-Husayni Al-Azazi",
+    "nameTajik": "Ал-Ҳусайнӣ Ал-Азозӣ",
+    "nameArabic": "الحسيني الأزازي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.alhusaynialazazichildren",
+    "name": "Al-Husayni Al-Azazi (Children)",
+    "nameTajik": "Ал-Ҳусайнӣ Ал-Азозӣ (Бачагон)",
+    "nameArabic": "الحسيني الأزازي للأطفال",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.aliabdurrahmanalhuthaify",
+    "name": "Ali Abdur-Rahman Al-Huthaifi",
+    "nameTajik": "Алӣ Абдур Раҳмон Ал-Ҳусайфӣ",
+    "nameArabic": "علي عبد الرحمن الحذيفي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.aliabdurrahmanalhuthaifyqaloon",
+    "name": "Ali Abdur-Rahman Al-Huthaifi (Qaloon)",
+    "nameTajik": "Алӣ Абдур Раҳмон Ал-Ҳусайфӣ (Қолун)",
+    "nameArabic": "علي عبد الرحمن الحذيفي قالون",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.alihajjajsouissi",
+    "name": "Ali Hajjaj Souissi",
+    "nameTajik": "Алӣ Ҳаҷҷоҷ Сӯисӣ",
+    "nameArabic": "علي حجاج السويسي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.alzainmohamedahmed",
+    "name": "Al-Zain Mohamed Ahmed",
+    "nameTajik": "Ал-Зайн Муҳаммад Аҳмад",
+    "nameArabic": "الزين محمد أحمد",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.aymanswed",
+    "name": "Ayman Swed",
+    "nameTajik": "Айман Свед",
+    "nameArabic": "أيمن سويد",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.azizalili",
+    "name": "Aziz Alili",
+    "nameTajik": "Азиз Алилӣ",
+    "nameArabic": "عزيز العليلي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.bandarbalila",
+    "name": "Bandar Balila",
+    "nameTajik": "Бандар Балила",
+    "nameArabic": "بندر بليلة",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.basselabdulrahmanraoui",
+    "name": "Bassel Abdul Rahman Raoui",
+    "nameTajik": "Бассел Абдул Раҳмон Раоӣ",
+    "nameArabic": "باسل عبد الرحمن راوي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.benkirane",
+    "name": "Benkirane",
+    "nameTajik": "Бенкирон",
+    "nameArabic": "بنكيران",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.darwishfarajdarwishalattar",
+    "name": "Darwish Faraj Darwish Al-Attar",
+    "nameTajik": "Дарвиш Фароҷ Дарвиш Ал-Аттор",
+    "nameArabic": "درويش فرج درويش العطار",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.eidhassanabuaachra",
+    "name": "Eid Hassan Abu Aachra",
+    "nameTajik": "Эйд Ҳасан Абӯ Оачра",
+    "nameArabic": "عيد حسن أبو عاشرة",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.emadalmansary",
+    "name": "Emad Al-Mansary",
+    "nameTajik": "Имод Ал-Мансарӣ",
+    "nameArabic": "عماد المنصاري",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ezzatsabri",
+    "name": "Ezzat Sabri",
+    "nameTajik": "Иззот Собрӣ",
+    "nameArabic": "عزت صبري",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.faresabbad",
+    "name": "Fares Abbad",
+    "nameTajik": "Форес Аббод",
+    "nameArabic": "فارس عباد",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.fouadalkhamiri",
+    "name": "Fouad Al-Khamiri",
+    "nameTajik": "Фуод Ал-Хамирӣ",
+    "nameArabic": "فؤاد الخميري",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.hamadsinan",
+    "name": "Hamad Sinan",
+    "nameTajik": "Ҳамад Синон",
+    "nameArabic": "حمد سنان",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.hamdyalsayedtolbasaad",
+    "name": "Hamdy Al-Sayed Tolba Saad",
+    "nameTajik": "Ҳамдӣ Ал-Сайед Толба Соод",
+    "nameArabic": "حمدي السيد طلبة سعد",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.haniarrifai",
+    "name": "Hani Ar-Rifai",
+    "nameTajik": "Ҳонӣ Ар-Рефаӣ",
+    "nameArabic": "هاني الرفاعي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.hasanhashem",
+    "name": "Hasan Hashem",
+    "nameTajik": "Ҳасан Ҳошем",
+    "nameArabic": "حسن هاشم",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.hassansaleh",
+    "name": "Hassan Saleh",
+    "nameTajik": "Ҳасан Солеҳ",
+    "nameArabic": "حسن صالح",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.hatemfarid",
+    "name": "Hatem Farid",
+    "nameTajik": "Ҳотем Фарид",
+    "nameArabic": "حاتم فريد",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ibrahimalakhdar",
+    "name": "Ibrahim Al-Akhdar",
+    "nameTajik": "Иброҳим Ал-Ахдар",
+    "nameArabic": "إبراهيم الأخضر",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ibrahimaldossari",
+    "name": "Ibrahim Ad-Dossari",
+    "nameTajik": "Иброҳим Ад-Доссарӣ",
+    "nameArabic": "إبراهيم الدوسري",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ibrahimaljormy",
+    "name": "Ibrahim Al-Jormy",
+    "nameTajik": "Иброҳим Ал-Ҷормӣ",
+    "nameArabic": "إبراهيم الجرمي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.ilhantok",
+    "name": "Ilhan Tok",
+    "nameTajik": "Илҳон Ток",
+    "nameArabic": "إلهان توك",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.imadzuhairhafez",
+    "name": "Imad Zuhair Hafez",
+    "nameTajik": "Имод Зуҳайр Ҳофиз",
+    "nameArabic": "عماد زهير حافظ",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.jaberabdulhameed",
+    "name": "Jaber Abdul Hameed",
+    "nameTajik": "Ҷобер Абдул Ҳомид",
+    "nameArabic": "جابر عبد الحميد",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.jamaanalosaimi",
+    "name": "Jamaan Al-Osaimi",
+    "nameTajik": "Ҷомоон Ал-Усаймӣ",
+    "nameArabic": "جمعة العوسيمي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.jamalshakerabdullah",
+    "name": "Jamal Shaker Abdullah",
+    "nameTajik": "Ҷомал Шокер Абдуллоҳ",
+    "nameArabic": "جمال شاكر عبد الله",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.jazzaalswaileh",
+    "name": "Jazza Al-Swaileh",
+    "nameTajik": "Ҷазза Ал-Свайлеҳ",
+    "nameArabic": "جزاء السويح",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.kamel",
+    "name": "Kamel",
+    "nameTajik": "Комил",
+    "nameArabic": "كامل",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.karimmansouri",
+    "name": "Karim Mansouri",
+    "nameTajik": "Карим Мансурӣ",
+    "nameArabic": "كريم المنصوري",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.khaledalqahtani",
+    "name": "Khaled Al-Qahtani",
+    "nameTajik": "Холид Ал-Қаҳтонӣ",
+    "nameArabic": "خالد القحطاني",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.khaledbarakat",
+    "name": "Khaled Barakat",
+    "nameTajik": "Холид Баракот",
+    "nameArabic": "خالد بركات",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.khalidabdulkafi",
+    "name": "Khalid Abdul Kafi",
+    "nameTajik": "Холид Абдул Кофӣ",
+    "nameArabic": "خالد عبد الكافي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.khalidaljalil",
+    "name": "Khalid Al-Jalil",
+    "nameTajik": "Холид Ал-Ҷалил",
+    "nameArabic": "خالد الجليل",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.khalidalmohanna",
+    "name": "Khalid Al-Mohanna",
+    "nameTajik": "Холид Ал-Муҳанна",
+    "nameArabic": "خالد المهنا",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.khalifaaltunaiji",
+    "name": "Khalifa Al-Tunaiji",
+    "nameTajik": "Халифа Ал-Тунайҷӣ",
+    "nameArabic": "خليفة الطنيجي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.laayounelkouchi",
+    "name": "Laayoune Lkouchi",
+    "nameTajik": "Лоюн Лкӯчӣ",
+    "nameArabic": "العيون الكوشي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.lesaintcorantraduitenfrancais",
+    "name": "Le Saint Coran Traduit En Francais",
+    "nameTajik": "Қуръони Муқаддас бо тарҷумаи фаронсавӣ",
+    "nameArabic": "القرآن المقدس مترجم بالفرنسية",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mahershakhashiro",
+    "name": "Maher Shakhashiro",
+    "nameTajik": "Маҳер Шахаширо",
+    "nameArabic": "ماهر شخاشيرو",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mahmoodalrifai",
+    "name": "Mahmood Ar-Rifai",
+    "nameTajik": "Маҳмуд Ар-Рефаӣ",
+    "nameArabic": "محمود الرفاعي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mahmoudalialbanna",
+    "name": "Mahmoud Ali Al-Banna",
+    "nameTajik": "Маҳмуд Алӣ Ал-Бонно",
+    "nameArabic": "محمود علي البنا",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mahmoudelsheimy",
+    "name": "Mahmoud El-Sheimy",
+    "nameTajik": "Маҳмуд Ал-Шаймӣ",
+    "nameArabic": "محمود الشيحي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mahmoudsaaddarouich",
+    "name": "Mahmoud Saad Darouich",
+    "nameTajik": "Маҳмуд Соод Дарӯич",
+    "nameArabic": "محمود سعد درويش",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mahmoudsayedeltayeb",
+    "name": "Mahmoud Sayed El-Tayeb",
+    "nameTajik": "Маҳмуд Сайед Ал-Тойеб",
+    "nameArabic": "محمود سيد الطيب",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.moeedhalharthi",
+    "name": "Moeed Hal-Harthi",
+    "nameTajik": "Муид Ҳал-Ҳарсӣ",
+    "nameArabic": "معيد الحارثي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohamedabdelaziz",
+    "name": "Mohamed Abdel Aziz",
+    "nameTajik": "Муҳаммад Абдул Азиз",
+    "nameArabic": "محمد عبد العزيز",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohamedabdelhakimsaadalabdullah",
+    "name": "Mohamed Abdel Hakim Saad Al-Abdullah",
+    "nameTajik": "Муҳаммад Абдул Ҳаким Соод Ал-Абдуллоҳ",
+    "nameArabic": "محمد عبد الحكيم سعد العبد الله",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohamedaljaberyalheyani",
+    "name": "Mohamed Al-Jabery Al-Heyani",
+    "nameTajik": "Муҳаммад Ал-Ҷоберӣ Ал-Ҳайонӣ",
+    "nameArabic": "محمد الجابري الهياني",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohamedalmohisni",
+    "name": "Mohamed Al-Mohisni",
+    "nameTajik": "Муҳаммад Ал-Муҳиснӣ",
+    "nameArabic": "محمد المحيسني",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohamedelkantaoui",
+    "name": "Mohamed El-Kantaoui",
+    "nameTajik": "Муҳаммад Ал-Кантоӣ",
+    "nameArabic": "محمد القنطاوي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohamedhassan",
+    "name": "Mohamed Hassan",
+    "nameTajik": "Муҳаммад Ҳасан",
+    "nameArabic": "محمد حسن",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohamedmaabad",
+    "name": "Mohamed Maabad",
+    "nameTajik": "Муҳаммад Мообод",
+    "nameArabic": "محمد معبد",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohamedosmankhan",
+    "name": "Mohamed Osman Khan",
+    "nameTajik": "Муҳаммад Усмон Хон",
+    "nameArabic": "محمد عثمان خان",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohamedshaabanabuqarn",
+    "name": "Mohamed Shaaban Abu Qarn",
+    "nameTajik": "Муҳаммад Шаобон Абӯ Қарн",
+    "nameArabic": "محمد شعبان أبو قرن",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohamedtablawi",
+    "name": "Mohamed Tablawi",
+    "nameTajik": "Муҳаммад Табловӣ",
+    "nameArabic": "محمد طبلاوي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohammadismaeelalmuqaddim",
+    "name": "Mohammad Ismaeel Al-Muqaddim",
+    "nameTajik": "Муҳаммад Исмоил Ал-Муқаддим",
+    "nameArabic": "محمد إسماعيل المقدم",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohammadrachadalshareef",
+    "name": "Mohammad Rachad Ash-Shareef",
+    "nameTajik": "Муҳаммад Рачод Аш-Шариф",
+    "nameArabic": "محمد رشاد الشريف",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mohammedbinsalehabuzaid",
+    "name": "Mohammed Bin Saleh Abu Zaid",
+    "nameTajik": "Муҳаммад Бин Солеҳ Абӯ Зайд",
+    "nameArabic": "محمد بن صالح أبو زيد",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.muftahalsaltany",
+    "name": "Muftah As-Saltany",
+    "nameTajik": "Муфтоҳ Ас-Салтонӣ",
+    "nameArabic": "مفتاح السلطاني",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.muhammadabdulkareem",
+    "name": "Muhammad Abdul Kareem",
+    "nameTajik": "Муҳаммад Абдул Карим",
+    "nameArabic": "محمد عبد الكريم",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.muhammadalaalimaldokali",
+    "name": "Muhammad Al-Aalim Al-Dokali",
+    "nameTajik": "Муҳаммад Ал-Олим Ал-Доколӣ",
+    "nameArabic": "محمد العالم الدكالي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.muhammadalluhaidan",
+    "name": "Muhammad Al-Luhaidan",
+    "nameTajik": "Муҳаммад Ал-Луҳайдон",
+    "nameArabic": "محمد اللحيدان",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.muhammadalmehysni",
+    "name": "Muhammad Al-Mehysni",
+    "nameTajik": "Муҳаммад Ал-Меҳиснӣ",
+    "nameArabic": "محمد المحيسني",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.muhammadalsubayyil",
+    "name": "Muhammad Al-Subayyil",
+    "nameTajik": "Муҳаммад Ал-Субаййил",
+    "nameArabic": "محمد الصبييل",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.muhammadanwarshahat",
+    "name": "Muhammad Anwar Shahat",
+    "nameTajik": "Муҳаммад Анвар Шаҳот",
+    "nameArabic": "محمد أنور شحات",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.muhammadayyub",
+    "name": "Muhammad Ayyub",
+    "nameTajik": "Муҳаммад Айюб",
+    "nameArabic": "محمد أيوب",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.muhammadsalehalimshah",
+    "name": "Muhammad Saleh Alim Shah",
+    "nameTajik": "Муҳаммад Солеҳ Олим Шоҳ",
+    "nameArabic": "محمد صالح عليم شاه",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.muhammadsiddiqalminshawimujawwad",
+    "name": "Muhammad Siddiq Al-Minshawi (Mujawwad)",
+    "nameTajik": "Муҳаммад Сиддиқ Ал-Миншавӣ (Муҷаввад)",
+    "nameArabic": "محمد صديق المنشاوي مجود",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.muhammadsulaimanpatel",
+    "name": "Muhammad Sulaiman Patel",
+    "nameTajik": "Муҳаммад Сулаймон Потел",
+    "nameArabic": "محمد سليمان باتل",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.musabilal",
+    "name": "Musa Bilal",
+    "nameTajik": "Мӯсо Билол",
+    "nameArabic": "موسى بلال",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mustafaallahouni",
+    "name": "Mustafa Allahouni",
+    "nameTajik": "Мустафо Аллоҳӯнӣ",
+    "nameArabic": "مصطفى اللهوني",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mustafaismail",
+    "name": "Mustafa Ismail",
+    "nameTajik": "Мустафо Исмоил",
+    "nameArabic": "مصطفى إسماعيل",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mustafaraadalazzawi",
+    "name": "Mustafa Raad Al-Azzawi",
+    "nameTajik": "Мустафо Роод Ал-Аззовӣ",
+    "nameArabic": "مصطفى رعد العزاوي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.mustaphagharbi",
+    "name": "Mustapha Gharbi",
+    "nameTajik": "Мустафо Ғарбӣ",
+    "nameArabic": "مصطفى غربي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.nabilarrifai",
+    "name": "Nabil Ar-Rifai",
+    "nameTajik": "Нобил Ар-Рефаӣ",
+    "nameArabic": "نبيل الرفاعي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.nasseralqatami",
+    "name": "Nasser Al-Qatami",
+    "nameTajik": "Носир Ал-Қатомӣ",
+    "nameArabic": "ناصر القطامي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.neamahalhassan",
+    "name": "Neamah Al-Hassan",
+    "nameTajik": "Неомаҳ Ал-Ҳасан",
+    "nameArabic": "نعمة الحسن",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.obeikan",
+    "name": "Obeikan",
+    "nameTajik": "Убайкон",
+    "nameArabic": "عبيكن",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.oimaoqataris",
+    "name": "Oimao Qataris",
+    "nameTajik": "Оимао Қаторӣ",
+    "nameArabic": "أيماو قطري",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.omaralkazabri",
+    "name": "Omar Al-Kazabri",
+    "nameTajik": "Умар Ал-Казобрӣ",
+    "nameArabic": "عمر الكزابري",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.osamabinalialghanim",
+    "name": "Osama Bin Ali Al-Ghanim",
+    "nameTajik": "Усомо Бин Алӣ Ал-Ғонӣм",
+    "nameArabic": "أسامة بن علي الغانم",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.rachidbelalia",
+    "name": "Rachid Belalia",
+    "nameTajik": "Рачид Белалӣ",
+    "nameArabic": "رشيد بلالي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.saberabdulhakam",
+    "name": "Saber Abdul Hakam",
+    "nameTajik": "Собер Абдул Ҳакам",
+    "nameArabic": "صابر عبد الحكم",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.sadaqatali",
+    "name": "Sadaqat Ali",
+    "nameTajik": "Содақот Алӣ",
+    "nameArabic": "صداقة علي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.sahlyasin",
+    "name": "Sahly Asin",
+    "nameTajik": "Соҳлӣ Осин",
+    "nameArabic": "سهلي عاصين",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.saidalshaalan",
+    "name": "Said Al-Shaalan",
+    "nameTajik": "Саид Ал-Шоолон",
+    "nameArabic": "سعيد الشعلان",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.salahalbudair",
+    "name": "Salah Al-Budair",
+    "nameTajik": "Солеҳ Ал-Будайр",
+    "nameArabic": "صلاح البدير",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.salahalhashem",
+    "name": "Salah Al-Hashem",
+    "nameTajik": "Солеҳ Ал-Ҳошем",
+    "nameArabic": "صلاح الهاشم",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.salahbaothman",
+    "name": "Salah Baothman",
+    "nameTajik": "Солеҳ Баотмон",
+    "nameArabic": "صلاح بعثمان",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.samirbelaachya",
+    "name": "Samir Belaachya",
+    "nameTajik": "Сомир Белоачӣ",
+    "nameArabic": "سمير بلااشية",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.saudalshuraim",
+    "name": "Saud Al-Shuraim",
+    "nameTajik": "Сауд Ал-Шурайм",
+    "nameArabic": "سعود الشريم",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.sayedramadan",
+    "name": "Sayed Ramadan",
+    "nameTajik": "Сайед Рамазон",
+    "nameArabic": "سيد رمضان",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.shahriarparhizgar",
+    "name": "Shahriar Parhizgar",
+    "nameTajik": "Шаҳриёр Парҳизгор",
+    "nameArabic": "شهريار برهيزكار",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.sudaisshuraymnaeemsultan",
+    "name": "Sudais & Shuraym & Naeem Sultan",
+    "nameTajik": "Судайс ва Шурайм ва Наим Султон",
+    "nameArabic": "السديس والشريم ونعيم سلطان",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.tamerislam",
+    "name": "Tamer Islam",
+    "nameTajik": "Томер Ислом",
+    "nameArabic": "تامر إسلام",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.tareqabdulganidaawob",
+    "name": "Tareq Abdul Gani Daawob",
+    "nameTajik": "Тореқ Абдул Ғонӣ Доовоб",
+    "nameArabic": "طارق عبد الغني داعوب",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.tawfeeqassayegh",
+    "name": "Tawfeeq As-Sayegh",
+    "nameTajik": "Тавфиқ Ас-Сайеғ",
+    "nameArabic": "توفيق الصائغ",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.turkiebeidalmarri",
+    "name": "Turkie Beid Al-Marri",
+    "nameTajik": "Туркӣ Бейд Ал-Маррӣ",
+    "nameArabic": "تركي بيد المري",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.waeldesouky",
+    "name": "Wael Desouky",
+    "nameTajik": "Воил Десӯкӣ",
+    "nameArabic": "وائل ديسوقي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.waelradwanqureshi",
+    "name": "Wael Radwan Qureshi",
+    "nameTajik": "Воил Радвон Қурешӣ",
+    "nameArabic": "وائل رضوان قريشي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.waleedidreesalmaneese",
+    "name": "Waleed Idrees Al-Maneese",
+    "nameTajik": "Волид Идрис Ал-Монес",
+    "nameArabic": "وليد إدريس المنيس",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.waleednaehi",
+    "name": "Waleed Naehi",
+    "nameTajik": "Волид Наеҳӣ",
+    "nameArabic": "وليد ناهي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.waleedsamiraliabdulmajidsorour",
+    "name": "Waleed Samir Ali Abdul Majid Sorour",
+    "nameTajik": "Волид Сомир Алӣ Абдул Маҷид Сӯрӯр",
+    "nameArabic": "وليد سمير علي عبد المجيد سرور",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.walidalshatti",
+    "name": "Walid Al-Shatti",
+    "nameTajik": "Волид Ал-Шаттӣ",
+    "nameArabic": "وليد الشطي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.walidfathibashta",
+    "name": "Walid Fathi Bashta",
+    "nameTajik": "Волид Фатҳӣ Бошто",
+    "nameArabic": "وليد فتحي بشطة",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.yahyahawwa",
+    "name": "Yahya Hawwa",
+    "nameTajik": "Яҳё Ҳавво",
+    "nameArabic": "يحيى حوى",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.yassenaljazairi",
+    "name": "Yassen Al-Jazairi",
+    "nameTajik": "Яссен Ал-Ҷазоирӣ",
+    "nameArabic": "ياسين الجزائري",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.yasseraldossari",
+    "name": "Yasser Ad-Dossari",
+    "nameTajik": "Яссер Ад-Доссарӣ",
+    "nameArabic": "ياسر الدوسري",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.yasseralmazroyee",
+    "name": "Yasser Al-Mazroyee",
+    "nameTajik": "Яссер Ал-Мазроӣ",
+    "nameArabic": "ياسر المزروعي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.yasserqureshi",
+    "name": "Yasser Qureshi",
+    "nameTajik": "Яссер Қурешӣ",
+    "nameArabic": "ياسر قريشي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.yassersalama",
+    "name": "Yasser Salama",
+    "nameTajik": "Яссер Салама",
+    "nameArabic": "ياسر سلامة",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.yassersarhaneldeeb",
+    "name": "Yasser Sarhan El-Deeb",
+    "nameTajik": "Яссер Сарҳон Ал-Диб",
+    "nameArabic": "ياسر سرحان الديب",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.yousufalshoaey",
+    "name": "Yousuf Al-Shoaey",
+    "nameTajik": "Юсуф Ал-Шуаӣ",
+    "nameArabic": "يوسف الشعي",
+    "isConfirmed": true
+  },
+  {
+    "id": "ar.yousufbinnoahahmad",
+    "name": "Yousuf Bin Noah Ahmad",
+    "nameTajik": "Юсуф Бин Нӯҳ Аҳмад",
+    "nameArabic": "يوسف بن نوح أحمد",
+    "isConfirmed": true
+  },
+  {
+    "id": "en.misharyrashidalafasyenglishtranslationsaheehibrahimwalk",
+    "name": "English Translation (Mishary Alafasy)",
+    "nameTajik": "Англисӣ (Мишарӣ Ал-Афосӣ)",
+    "nameArabic": "إنجليزي (مشاري العفاسي)",
+    "isConfirmed": true
+  },
+  {
+    "id": "en.muhammadayyubenglishtranslationmuhsinkhanmikaalwaters",
+    "name": "English Translation (Muhammad Ayyub)",
+    "nameTajik": "Англисӣ (Муҳаммад Айюб)",
+    "nameArabic": "إنجليزي (محمد أيوب)",
+    "isConfirmed": true
+  },
+  {
+    "id": "en.sudaisandshuraymenglishtranslationpickthallaslamathar",
+    "name": "English Translation (Sudais & Shuraym)",
+    "nameTajik": "Англисӣ (Судайс ва Шурайм)",
+    "nameArabic": "إنجليزي (السديس والشريم)",
+    "isConfirmed": true
+  }
+]
